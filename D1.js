@@ -55,7 +55,7 @@ console.log(myName);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-console.log(x - 4);
+console.log(4 - x);
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -67,4 +67,4 @@ console.log(x - 4);
 let name1 = "jhon";
 let name2 = "Jhon";
 
-console.log(name1 === name2);
+console.log(name1 !== name2);
